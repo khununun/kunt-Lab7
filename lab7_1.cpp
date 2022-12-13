@@ -53,11 +53,3 @@ int main(){
     }
     return 0;
 }
-
-
-int main(){
-    cout >> "Input text: "
-    cout >> "Reversed text: "
-    cout >> "Palindrome: "
-    return 0;
-}
